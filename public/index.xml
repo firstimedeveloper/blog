@@ -1,22 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>firstimedeveloper</title>
-    <link>http://blog.junhyukhan.com/</link>
-    <description>Recent content on firstimedeveloper</description>
+    <title>firsitmedev&#39;s blog</title>
+    <link>https://blog.firstime.dev/</link>
+    <description>Recent content on firsitmedev&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
     <lastBuildDate>Wed, 26 Aug 2020 15:07:53 +0900</lastBuildDate>
     
-	<atom:link href="http://blog.junhyukhan.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://blog.firstime.dev/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>My first post using hugo</title>
-      <link>http://blog.junhyukhan.com/posts/my-first-post/</link>
+      <link>https://blog.firstime.dev/posts/my-first-post/</link>
       <pubDate>Wed, 26 Aug 2020 15:07:53 +0900</pubDate>
       
-      <guid>http://blog.junhyukhan.com/posts/my-first-post/</guid>
+      <guid>https://blog.firstime.dev/posts/my-first-post/</guid>
       <description>This is my first post made with hugo and deployed using netlify.
 I am a university student in (South) Korea studying Industrial Engineering, who spends his free time on learning to develop software. 😅
 I am hoping this blog will help myself as well as tens of other &amp;lsquo;firstimedevelopers&amp;rsquo; around the world in becoming better versions of ourselves (&amp;hellip;or something else that doesn&amp;rsquo;t sound too generic).
